@@ -25,4 +25,4 @@ live Demo -
 Add animations
 Add multiple open/close modes
 Convert into React component
-Add dark/light theme toggle
+Add dark/light theme toggle.

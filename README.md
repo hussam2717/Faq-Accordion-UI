@@ -15,3 +15,8 @@ live Demo -
 - HTML5
 - CSS3
 - JavaScript
+
+## 📂 Project Structure
+│── index.html
+│── style.css
+│── script.js

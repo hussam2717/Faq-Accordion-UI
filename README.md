@@ -20,3 +20,9 @@ live Demo -
 │── index.html
 │── style.css
 │── script.js
+
+📌 Future Improvements
+Add animations
+Add multiple open/close modes
+Convert into React component
+Add dark/light theme toggle
